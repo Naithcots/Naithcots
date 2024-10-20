@@ -1,7 +1,6 @@
 ### Welcome 👋
 #### ⚡To check all my public projects please visit my [portfolio](https://naithcots.ovh/)⚡
 - 🔭 I’m currently working on some cool web apps
-- 🌱 I’m currently learning Java Spring
 
 <!--
 **Naithcots/Naithcots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
