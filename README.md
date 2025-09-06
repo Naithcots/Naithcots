@@ -1,6 +1,8 @@
 ### Welcome 👋
-#### ⚡To check all my public projects please visit my [portfolio](https://naithcots.ovh/)⚡
-- 🔭 I’m currently working on some cool web apps
+#### ⚡To check all my projects please visit my [portfolio website](https://stochmial.pl)⚡
+- 🔭 I’m currently working on my home lab setup
+- 🌱 I’m currently improving my DevOps skills
+- 📫 How to contact: Submit a form on my portfolio website or send a message directly to [sebastian@stochmial.pl](mailto:sebastian@stochmial.pl) ✨
 
 <!--
 **Naithcots/Naithcots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
